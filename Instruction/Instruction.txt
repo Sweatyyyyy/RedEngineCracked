@@ -1,0 +1,9 @@
+-----------------------------------
+Step 1 : Search for Microsoft Store
+------------------------------------
+Step 2 : Open it and search for python
+------------------------------------
+Step 3 : Download Version 3.10
+------------------------------------
+Step 4 : Open main.py With Python
+------------------------------------
